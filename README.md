@@ -1,4 +1,4 @@
-# Hotel_Booking
-# INTRODUCTION
+# HOTEL BOOKING ANALYSIS
 In the initial stages of conducting a comprehensive hotel booking analysis, I employed a strategic blend of Excel, SQL, and Power BI tools. These tools collectively facilitated the transformation of raw booking data into actionable insights. Excel enabled data cleaning and organization, SQL streamlined data storage and retrieval, while Power BI facilitated the creation of interactive visualizations to showcase key booking trends and patterns, laying the foundation for a data-driven exploration of the hospitality industry's booking landscape.
 The dataset comprises 119,390 entries corresponding to reservations made at both a City Hotel and a Resort Hotel. Each entry represents a booking occurrence spanning from July 1, 2015, to August 31, 2017, encompassing both fulfilled reservations and those that were canceled.
+
